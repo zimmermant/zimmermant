@@ -1,4 +1,6 @@
-### Hi there 👋
+I am a professor of physics at the University of Wisconsin - Stout where I teach courses in introductory physics, quantum mechanics, lab experimentation, and quantum computing.
+
+I am interested in incorporating computational modeling in the curriculum and I am Editor-in-Chief of the Partnership for Integrating Computation Into Undergraduate Physics.
 
 <!--
 **zimmermant/zimmermant** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
